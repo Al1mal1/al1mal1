@@ -1,4 +1,17 @@
-html {
-  height: 100%;
-  width: 100%;
+body {
+  background-color: #d2b48c; /* Couleur terre */
+  color: #2e2e2e; /* Couleur de texte */
+  font-family: 'Arial', sans-serif; /* Police de caractères */
+}
+
+h1 {
+  color: #8b4513; /* Couleur de titre */
+}
+
+p {
+  font-size: 18px; /* Taille du texte */
+}
+
+a {
+  color: #006400; /* Couleur des liens hypertexte */
 }
