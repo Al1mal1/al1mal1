@@ -1,1 +1,17 @@
+body {
+  background-color: #d0008c; /* Couleur inconnue */
+  color: #2e2e2e; /* Couleur de texte */
+  font-family: 'Arial', sans-serif; /* Police de caractères */
+}
 
+h1 {
+  color: #8b4513; /* Couleur de titre */
+}
+
+p {
+  font-size: 18px; /* Taille du texte */
+}
+
+a {
+  color: #006400; /* Couleur des liens hypertexte */
+}
